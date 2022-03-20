@@ -11,9 +11,9 @@
 ## Code Examples:
 https://github.com/xanzor/Qwant/tree/master/JS/Bootcamp%20JS
 
-## Education:
+### Education:
 * School "QWANT"
 * FreeCodeCamp
 * Udemy...
-## English:
+### English:
 * Basic
